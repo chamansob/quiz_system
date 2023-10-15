@@ -1,0 +1,21 @@
+{
+    "require": {
+        "illuminate/database": "^8.27",
+        "illuminate/events": "^8.27",
+        "illuminate/hashing": "^8.27",
+		"intervention/image": "^2.5",
+		"maximebf/debugbar": "^1.16",
+        "illuminate/http": "^8.49",
+        "illuminate/pagination": "^8.83",
+        "fakerphp/faker": "^1.20",
+        "coderatio/simple-backup": "^1.0",
+        "phpmailer/phpmailer": "^6.8",
+        "illuminate/filesystem": "^8.83",
+        "rosell-dk/webp-convert": "^2.9"		
+    },
+    "autoload": {
+    "psr-4": {
+        "Collective\\Html\\": "vendor/laravelcollective/html/src/"
+    }
+}
+}
